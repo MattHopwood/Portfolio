@@ -7,7 +7,7 @@ Not much to see here yet, but expect to see
 * TI Sheet
 * TI Thread
 * TI Squeeze
-** May also include some old masters code if it's not as badly written as I remember.
+* May also include some old masters code if it's not as badly written as I remember.
     
 # Collab Code (MATLAB)
  * Astrophysics collaboration with J.Jenkins
