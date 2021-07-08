@@ -10,7 +10,7 @@ Not much to see here yet, but expect to see
 * May also include some old masters code if it's not as badly written as I remember.
     
 # Collab Code (MATLAB)
- * Astrophysics collaboration with J.Jenkins
+ * Astrophysics collaboration with J.Jenkins (Mass Draining)
  * Contains the MATLAB App I produced for the research group @UCL
  * Biology collaboration with the group
  * Code written to solve some metamaterials problem with Emma
